@@ -111,7 +111,17 @@ footer{
 
 }
 
-.foott{
-	position: absolute;
-	bottom: 0;
+
+.aaa{
+	width:100%;
+	height:300px;
+	box-shadow: 2px 2px 2px 2px #aaa;
+    
+}
+
+
+/*Interview page	*/
+
+.int-cont{
+	margin-top: 200px;
 }
